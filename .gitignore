@@ -1,12 +1,2 @@
-
-bin
-include
-lib
-share
-.venv
-pyvenv.cfg
-AB_NYC_2019.csv
-AB_US_2023.csv
-AB_2025_combined.csv
-AB_filtered_2025.csv
-AB_2025
+# Created by venv; see https://docs.python.org/3/library/venv.html
+*
